@@ -1,0 +1,20 @@
+{
+  "name": "formsandimages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.40.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
