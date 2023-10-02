@@ -11,3 +11,7 @@ to upload multiple images together
 ### after submitting the form:-
 
 ![image](https://github.com/DeeptiDaisy/formsandimages/assets/109961309/0535b1f4-5c0a-4827-86ff-877c3fd898f7)
+
+
+![image](https://github.com/DeeptiDaisy/formsandimages/assets/109961309/4175d61c-7a70-4436-9bed-444f8ed711c0)
+
